@@ -555,6 +555,41 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: fddd7ad18babc534390051c6c830d7d0, type: 2}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -843
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -335.6
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4194532054966513483, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180
+      objectReference: {fileID: 0}
     - target: {fileID: -4057075674027859195, guid: 1fb476b39f9c69442b4adbcf78263bbd,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -755,6 +790,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: f1a2d021b6d77744f8e600e5a4797b90, type: 2}
+    - target: {fileID: -1970147578922553276, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1018.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -1970147578922553276, guid: 1fb476b39f9c69442b4adbcf78263bbd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -425
+      objectReference: {fileID: 0}
     - target: {fileID: -1917002845688894595, guid: 1fb476b39f9c69442b4adbcf78263bbd,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
