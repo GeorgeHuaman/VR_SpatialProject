@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.03413515, g: 0.047720116, b: 0.08414789, a: 1}
+  m_IndirectSpecularColor: {r: 0.03416604, g: 0.04770158, b: 0.084150925, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -309,6 +309,7 @@ MonoBehaviour:
     cameraRotationMode: 0
     respawnLevelY: -100
     defaultMovementMaterial: {fileID: 0}
+    disableFirstTutorial: 0
     initialXRCameraMode: 1
     allowPlayerToSwitchXRCameraMode: 1
     virtualizeMouseClickInXR: 1
@@ -980,7 +981,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1179529195}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.25, z: 0}
+  m_LocalPosition: {x: -34.84, y: 0.25, z: 35.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1420,7 +1421,7 @@ Transform:
   m_GameObject: {fileID: 1824835402}
   m_LocalRotation: {x: -0, y: -1, z: -0, w: -0.00000035762784}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalScale: {x: 23.4735, y: 23.4735, z: 23.4735}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
