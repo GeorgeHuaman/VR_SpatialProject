@@ -5,7 +5,7 @@ using SpatialSys.UnitySDK;
 using System;
 public class GameManager : MonoBehaviour
 {
-    private void Update()
+    public void DisableJump()
     {
         SpatialBridge.actorService.localActor.avatar.maxJumpCount = 0;
     }
