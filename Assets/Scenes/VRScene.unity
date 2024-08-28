@@ -472,6 +472,7 @@ GameObject:
   - component: {fileID: 531340647}
   - component: {fileID: 531340648}
   - component: {fileID: 531340649}
+  - component: {fileID: 531340650}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -519,6 +520,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   map: {fileID: 986743255}
+--- !u!114 &531340650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531340646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06017249e6a1db44b6b15290eeb0353, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &685450075
 GameObject:
   m_ObjectHideFlags: 0
@@ -1579,13 +1592,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
+        type: 3}
       propertyPath: m_LocalPosition.x
-      value: 71.9945
+      value: 82.2
       objectReference: {fileID: 0}
     - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.88
+      value: 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 7858102082338468639, guid: b51699c6095572b4b93c42d1ae092d0e,
         type: 3}
